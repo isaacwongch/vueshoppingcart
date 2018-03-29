@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # my-shopping-cart
 
 > A Vue.js project
@@ -17,7 +16,5 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
 # vueshoppingcart
 for my testing with Vue 
->>>>>>> def90526aa0c737273425deb91c6d508ee51af54
